@@ -3,7 +3,7 @@
 ## 👤 Student Details
 - **Name:** Rahul Kumar Pradhan  
 - **Registration Number:** 25BAI10365
-- **Branch:** B.Tech (CSE)  
+- **Branch:** B.Tech (CSE)-(Ai/Ml)
 - **Year:** 1st Year  
 - **Course Code:** CSE0001 – Digital Literacy  
 
